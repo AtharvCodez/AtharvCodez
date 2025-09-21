@@ -15,9 +15,14 @@
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" height="30" alt="HTML5 logo" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)" height="30" alt="CSS3 logo" />
   <br>
   <p1><small>Python<small></p1>
   <p1> Java</p1>
+  <p1> HTML</p1>
+  <p1> CSS</p1>
+  
 </div>
   
 
